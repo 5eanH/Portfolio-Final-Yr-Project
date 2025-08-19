@@ -60,7 +60,7 @@ A modular cloth physics library for Unity, featuring realistic cloth behavior, c
 ## Technical Highlights
 
 - Cloth is implemented using a **mass-spring system**, with particles connected via springs.
-- Wind simulation uses **Perlin noise** for smooth, natural effects.
+- Wind simulation uses **Perlin noise** for smooth, natural reactions.
 - **Tearing** is handled by creating a radius around collision points and removing springs within that radius.
 - Mesh triangles are dynamically updated to reflect spring removal for realistic tearing visuals.
 
