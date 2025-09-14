@@ -48,7 +48,7 @@ A modular cloth physics library for Unity, featuring realistic cloth behavior, c
 
 ## Project Structure
 
-- **Scripts/**
+- **Main Scripts/**
   - `ClothController.cs` – main controller handling particles, springs, collisions, wind, and tearing.
   - `Particle.cs` – particle behavior and physics.
   - `Spring.cs` – connects particles and handles elasticity.
