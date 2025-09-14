@@ -40,8 +40,9 @@ A modular cloth physics library for Unity, featuring realistic cloth behavior, c
    - Spring stiffness
    - Wind strength & direction
    - Tearing threshold
-3. **Pinning Cloth**: Enable the top row pinning for banners or flags.
-4. **Play Scene**: The cloth will respond to physics forces, collisions, and tearing.
+3. **Cloth Orientation**: Rotate the game object holding the script and the cloth with be created in the set orientation.
+4. **Pinning Cloth**: Enable the top row pinning for banners or flags.
+5. **Play Scene**: The cloth will respond to physics forces, collisions, and tearing.
 
 ---
 
@@ -75,8 +76,4 @@ A modular cloth physics library for Unity, featuring realistic cloth behavior, c
 
 ---
 
-## Author
-
-**Sean Hogan** – Software Developer | Unity Programmer  
-
-This project was created as part of a final year project focusing on physics-based systems in Unity.
+This project was created as part of a final year project focusing on algorithmic systems in Unity.
